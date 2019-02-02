@@ -112,7 +112,7 @@ Details about this assignment can be found [on the course webpage](http://cs231n
 	>>> np.argmax(a, axis=1)
 	array([2, 2])
 
-**bincount**：桶排序
+**bincount**：桶计数
 
 	>>> np.bincount(np.array([0, 1, 1, 3, 2, 1, 7]))
 	array([1, 3, 1, 1, 0, 0, 0, 1])
