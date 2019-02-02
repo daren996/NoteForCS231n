@@ -5,7 +5,7 @@ Details about this assignment can be found [on the course webpage](http://cs231n
 ## 作业（一）中的一些细节
 
 [1. K近邻的无显式循环的写法](#K近邻的无显式循环的写法)<p>
-[2. 交叉验证(cross-validation)](#交叉验证(cross-validation))<p>
+[2. 交叉验证(cross-validation)](#交叉验证(cross\-validation))<p>
 [3. 一些numpy的函数](#一些numpy的函数)<p>
 
 ### K近邻的无显式循环的写法
