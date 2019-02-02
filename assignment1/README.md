@@ -5,7 +5,7 @@ Details about this assignment can be found [on the course webpage](http://cs231n
 ## 作业（一）中的一些细节
 
 [1. K近邻的无显式循环的写法](#K近邻的无显式循环的写法)<p>
-[2. 交叉验证(cross-validation)](#交叉验证(cross\-validation))<p>
+[2. 交叉验证(cross-validation)](#交叉验证(cross-validation))<p>
 [3. 一些numpy的函数](#一些numpy的函数)<p>
 
 ### K近邻的无显式循环的写法
@@ -37,7 +37,7 @@ Details about this assignment can be found [on the course webpage](http://cs231n
 
 **无显式循环的实现方法就是将矩阵元素的欧式距离计算公式展开**
 
-### 交叉验证(cross-validation)
+### 交叉验证(cross validation)
 
 交叉验证可以用于找到最优的超参数k的值。将训练数据集分成多个folds，依次选择其中的一个fold作为测试集，其余作为训练集。针对不同的k，找到它们的精确度。
 
